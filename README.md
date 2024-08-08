@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 ### I'm currently a student at FER and a web dev @ Codel (https://codel.hr/en/)
-
-<hr/>
-
 ### 📫 Feel free to contact me: dorakasik83@gmail.com
 
 <hr/>
