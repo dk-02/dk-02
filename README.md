@@ -4,8 +4,10 @@
 ### 📫 Feel free to contact me: dorakasik83@gmail.com
 
 <hr/>
+<div style="background-color:white;width:80px;height:auto">
+  <img style="width:80px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />
+</div>
 
-<img style="width:100px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />
 
 <!--
 **dk-02/dk-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
