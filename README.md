@@ -3,7 +3,7 @@
 ### I'm currently a student at FER and a web dev @ Codel (https://codel.hr/en/)
 ### 📫 Feel free to contact me: dorakasik83@gmail.com
 
-<img src="https://sandaacademy.com/wp-content/uploads/2023/02/Java-Logo.png" />
+<img style="width:100px" src="https://sandaacademy.com/wp-content/uploads/2023/02/Java-Logo.png" />
 
 <!--
 **dk-02/dk-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
