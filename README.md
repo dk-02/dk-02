@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### M.Sc. Comp. Eng. (Univ. mag. ing. comp.) | Full-Stack Development | Currently building full-stack projects to refine skills and expand my portfolio.
 ### 📫 Feel free to contact me
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/dora-kašik-944367251]
